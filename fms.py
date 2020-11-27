@@ -5,7 +5,7 @@ from tkinter.ttk import Frame, Style, Treeview
 import mysql.connector as mc
 import threading
 from datetime import datetime
-
+############
 username= input('Please input your SQL username: ')
 password= input('Please input your SQL password: ')
 config = {
